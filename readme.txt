@@ -5,5 +5,5 @@ Git tracks changes of file.
 Git is first add Then  submit.
 <<<<<<< HEAD
 我终于走出dev分支啦.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
 
